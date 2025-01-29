@@ -1,3 +1,5 @@
+THIS PROGRAM WILL BE REWRITTEN AS A SPRINGBOOT APPLICATION
+
 # CODE-COACH
 
 this is the command line based program
